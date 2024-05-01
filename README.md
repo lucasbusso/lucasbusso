@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a backoffice with **React** and **Microfrontend** architecture 
-- 🔭 I’m currently working in **GlobalLogic (ClaroPay)**
-- 🌱 I’m currently learning **Java (Spring)**
+- 🔭 I’m currently working in **GlobalLogic**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me: **lucasxbusso@gmail.com**
 - 😄 Pronouns: **he/him**
 
