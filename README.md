@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on a backoffice with **React** and **Microfrontend** architecture 
 - 🔭 I’m currently working in **GlobalLogic** as Senior Frontend Engineer
 - 🌱 I’m currently learning **NestJS**
+- 📚 I'm reading **Distributed Systems (Principles and Paradigms) - Tanenbaum and Van Steen**
 - 📫 How to reach me: **lucasxbusso@gmail.com**
 - 😄 Pronouns: **he/him**
 
