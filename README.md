@@ -7,6 +7,5 @@
 - 📫 How to reach me: **lucasxbusso@gmail.com**
 - 😄 Pronouns: **he/him**
 
-- **Presentation:** I'm a Software Engineer specialized in Frontend and Micro Frontend architecture.
-Solid knowledge of software architecture, pattern designs, databases, AWS, ORMs and Docker.
-About 4 years of professional experience as Software Engineer. English proficiency C1.
+- **Presentation:** I'm a Software Engineer specialized in Frontend and Micro Frontend architecture. About 4 years of professional experience in this role.
+Solid knowledge of software architecture, design patterns, databases, AWS, ORMs and Docker. English proficiency C1.
