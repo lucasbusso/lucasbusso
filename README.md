@@ -3,9 +3,10 @@ I'm a Software Engineer specialized in Frontend and Micro Frontend architecture.
 Solid knowledge of software architecture, design patterns, databases, AWS, ORMs and Docker. English proficiency C1.
 
 - 🔭 I’m currently working on a backoffice with **React** and **Microfrontend** architecture 
-- 🔭 I’m currently working in **GlobalLogic** as SSr Frontend Engineer
+- 💰 I’m currently working in **GlobalLogic** as SSr Frontend Engineer
 - 🌱 I’m currently learning **NestJS**
 - 📚 I'm reading **Distributed Systems (Principles and Paradigms) - Tanenbaum and Van Steen**
-- 📫 How to reach me: **lucasxbusso@gmail.com**
 - 😄 Pronouns: **he/him**
+- 📫 How to reach me: **lucasxbusso@gmail.com**
+
 
