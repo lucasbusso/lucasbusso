@@ -4,7 +4,7 @@ Solid knowledge of software architecture, design patterns, databases, AWS, ORMs 
 
 - 🔭 I’m currently working on a backoffice with **React** and **Microfrontend** architecture 
 - 💰 I’m currently working in **GlobalLogic** as SSr Frontend Engineer
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Java** with **Spring Framework and SpringBoot**
 - 📚 I'm reading **Distributed Systems (Principles and Paradigms) - Tanenbaum and Van Steen**
 - 😄 Pronouns: **he/him**
 - 📫 How to reach me: **lucasxbusso@gmail.com**
