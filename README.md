@@ -1,10 +1,12 @@
 ### Hi there 👋
-I'm a Software Engineer specialized in Frontend and Micro Frontend architecture. About 4 years of professional experience in this role.
-Solid knowledge of software architecture, design patterns, databases, AWS, ORMs and Docker. English proficiency C1.
+Fullstack Developer specialiced in microfrontend, microservices and mobile development. 
+Working as Software Engineer since 2020.
+Languages: JavaScript, Java
+Frameworks: React, Angular, SpringBoot, NestJS
+Linux and cloud enthusiast. Knowledge in AWS, Docker, K8s, CI/CD pipelines, NGINX.
 
-- 🔭 I’m currently working on a backoffice with **React** and **Microfrontend** architecture 
-- 💰 I’m currently working in **GlobalLogic** as SSr Frontend Engineer
-- 🌱 I’m currently learning **Java** with **Spring Framework and SpringBoot**
+- 💰 I’m currently working in **GlobalLogic** as Sr Frontend Engineer
+- 🔭I’m a **Frontend Tech Lead** on a team building a back-office application using React and a microfrontend architecture, and I also work as a **developer** on Spring Boot microservices system.
 - 📚 I'm reading **Distributed Systems (Principles and Paradigms) - Tanenbaum and Van Steen**
 - 😄 Pronouns: **he/him**
 - 📫 How to reach me: **lucasxbusso@gmail.com**
